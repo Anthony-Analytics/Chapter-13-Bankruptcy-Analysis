@@ -1,3 +1,0 @@
-| case_id | filer_age | filer_state | filing_date | monthly_income | monthly_plan_payment | plan_length_months | payments_made | case_status |
-| ------- | --------- | ----------- | ----------- | -------------- | -------------------- | ------------------ | ------------- | ----------- |
-| mycase1 | 38        | VA          | 2025-09-22  | 3100           | 715                  | 60                 | 1             | active      |
