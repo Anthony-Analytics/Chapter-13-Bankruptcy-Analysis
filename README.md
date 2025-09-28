@@ -1,7 +1,7 @@
 # Chapter 13 — Inflation & Bankruptcy Analysis
 
 **Author:** Anthony Jones 
-**Question:** How have bankruptcy filings changed from 2020–2025, and how might inflation be related?
+**Question:** How have bankruptcy filings changed from June/2022–June/2025, and how might inflation be related?
 
 ## Files
 - `data/mycase_anonymized.csv` — anonymized personal case row
