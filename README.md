@@ -6,7 +6,7 @@
 ## Files
 - `data/mycase_anonymized.csv` — anonymized personal case row
 - `data/us_bankruptcies_by_year.csv` — annual totals used in this analysis
-
+- `bf_f_0630.2023.pdf` - total filings from June-2022 through June-2023
 
 
 ## Summary
